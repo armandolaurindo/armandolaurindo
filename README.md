@@ -1,9 +1,9 @@
 - 👋 Olá, sou Armando Benedito Laurindo @armandolaurindo
-- 👀 Tenho interesse em Javascript, HTML5 e CSS3, React-Native.
-- 🌱 Atualmente estou aprendendo JavaScript, HTML5 e CSS3.
+- 👀 Tenho interesse em Python, Django e javascript.
+- 🌱 Atualmente estou me aprofundando em Django e javascript.
 - 💞️ Estou procurando colaborar em projetos para obter mais esperiência e conhecimento.
 - 📫 Como entrar em contato comigo: armandochosen@gmail.com.
-- ⚡ Curiosidade: Python
+- ⚡ Curiosidade: HTML e CSS
 
 <!---
 armandolaurindo/armandolaurindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
